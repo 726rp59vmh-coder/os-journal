@@ -29,3 +29,18 @@ Expected result:
 ### Evidence
 - Shows permissions before and after applying `chmod 600`
 <img width="629" height="222" alt="Screenshot 2025-12-12 at 16 59 27" src="https://github.com/user-attachments/assets/c9fc1745-f7ec-40dd-a494-e0c741184135" />
+
+### Security Configuration Checklist
+- Use a non-root admin user with sudo
+- SSH used for remote access
+- Firewall enabled
+- File permissions restricted
+
+### Threat Model
+- SSH password guessing → limited by user access
+- Excessive privileges → controlled with sudo
+- Unauthorised file access → restricted using chmod
+
+### Performance Testing Plan
+- Monitor CPU, memory, disk, and network usage
+- Record results for comparison later
