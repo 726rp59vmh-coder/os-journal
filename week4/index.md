@@ -29,6 +29,7 @@ The firewall was enabled with a default deny policy. SSH access was restricted t
 
 Command used:
 sudo ufw status verbose:
+
 <img width="436" height="131" alt="Screenshot 2025-12-13 at 20 27 40" src="https://github.com/user-attachments/assets/6fb33323-bc99-4ae8-866f-e0de90fd027a" />
 
 
