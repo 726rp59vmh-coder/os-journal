@@ -78,8 +78,13 @@ The server remained stable during all tests. Resource usage increased under load
 
 ### Graphical Techniques:
 
+<img width="360" height="217" alt="Screenshot 2025-12-14 at 22 06 29" src="https://github.com/user-attachments/assets/1e7aeb00-1b46-45a9-bd7c-a3d0a11b902c" />
 
+<img width="361" height="219" alt="Screenshot 2025-12-14 at 22 06 34" src="https://github.com/user-attachments/assets/75c986b4-40e0-459a-9e44-edde60ad6dc8" />
 
+<img width="366" height="218" alt="Screenshot 2025-12-14 at 22 06 38" src="https://github.com/user-attachments/assets/50a5ac09-a106-46b3-864b-597e1d867d72" />
+
+<img width="360" height="215" alt="Screenshot 2025-12-14 at 22 06 42" src="https://github.com/user-attachments/assets/aedbe382-432f-4ab0-87c4-c06f4d4ff862" />
 
 
 
