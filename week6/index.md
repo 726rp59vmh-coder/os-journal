@@ -10,11 +10,14 @@ All tests were run using command-line tools on the server. A baseline test was d
 <img width="515" height="180" alt="Screenshot 2025-12-14 at 20 43 22" src="https://github.com/user-attachments/assets/b64a20de-423a-4662-9b6b-c0e19b7457e5" />
 
 ### CPU Load test:
-stress-ng --cpu 2 --timeout 30s
+stress-ng --cpu 2 --timeout 30s:
+
+<img width="459" height="59" alt="Screenshot 2025-12-14 at 20 11 19" src="https://github.com/user-attachments/assets/316891d7-843c-44c5-abe2-6254da519786" />
 
 "top" - NO LOAD:
 
-<img width="459" height="59" alt="Screenshot 2025-12-14 at 20 11 19" src="https://github.com/user-attachments/assets/316891d7-843c-44c5-abe2-6254da519786" />
+<img width="764" height="351" alt="Screenshot 2025-12-14 at 19 03 02" src="https://github.com/user-attachments/assets/2bd1fce2-b61f-4751-b13e-176e07a5f215" />
+
 
 "top" - UNDER LOAD:
 
