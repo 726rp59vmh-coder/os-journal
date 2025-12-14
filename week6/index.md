@@ -1,4 +1,4 @@
-<img width="515" height="180" alt="Screenshot 2025-12-14 at 20 43 22" src="https://github.com/user-attachments/assets/1317f92c-2aa6-43b9-a6c4-c64519236e5c" />### Week 6 – Performance Evaluation
+### Week 6 – Performance Evaluation
 
 This week focused on testing how the server performs under different workloads and checking how stable the system is when under load.
 
