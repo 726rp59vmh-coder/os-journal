@@ -75,3 +75,16 @@ After:
 
 ### Outcome
 The server remained stable during all tests. Resource usage increased under load and returned to normal after my tests were complete.
+
+### Graphical Techniques:
+
+
+
+
+
+
+
+
+
+
+
